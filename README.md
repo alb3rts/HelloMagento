@@ -20,4 +20,4 @@ Insert in the composer.json file of the Magento 2 project, new repository:
     "url": "https://github.com/alb3rts/HelloMagento/"                                      
 }   
 
-composer require alb3rts/HelloMagento
+composer require alb3rts/HelloMagento:dev-master

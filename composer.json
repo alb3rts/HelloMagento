@@ -1,0 +1,24 @@
+{
+    "name": "alb3rts/HelloMagento",
+    "description": "Hello Magento 2 Composer Module!",
+    "require": {
+        "magento/project-community-edition": "*"
+    },
+    "type": "magento2-module",
+    "version": "0.1.0",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Marrako/HelloMagento/"
+            ]
+        ]
+    },
+    "authors": [
+        {
+            "name": "alb3rts",
+            "homepage": "https://www.marrako.com/",
+            "role": "Developer"
+        }
+    ]
+}

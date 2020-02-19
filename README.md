@@ -21,3 +21,8 @@ Insert in the composer.json file of the Magento 2 project, new repository:
 }   
 
 composer require alb3rts/HelloMagento:dev-master
+
+## Update
+
+composer update alb3rts/HelloMagento
+

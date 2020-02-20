@@ -26,3 +26,6 @@ composer require alb3rts/HelloMagento:dev-master
 
 composer update alb3rts/HelloMagento
 
+## Update last version GitHub
+
+git pull master
